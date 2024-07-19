@@ -18,17 +18,17 @@ publish_to: "none" # Remove this line if you wish to publish to pub.dev
 version: 1.0.0+1
 
 environment:
-  sdk: ">=2.12.0 <3.0.0"
+  sdk: ">=3.3.0 <3.4.0"
 
-dependency_overrides: 
-  qiniu_sdk_base:
-    path: ../../qiniu_sdk_base
+#dependency_overrides:
+#  qiniu_sdk_base_plus:
+#    path: ../../qiniu_sdk_base
 
 dependencies:
   flutter:
     sdk: flutter
   file_picker: ^3.0.1
-  qiniu_flutter_sdk:
+  qiniu_flutter_sdk_plus:
     path: ../
 
   # The following adds the Cupertino Icons font to your application.

@@ -1,3 +1,7 @@
+## 0.6.0
+
+* Upgrade sdk
+
 ## 0.5.0
 
 * Upgrade dio to 5.0.0

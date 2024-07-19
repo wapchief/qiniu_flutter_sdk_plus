@@ -4,7 +4,7 @@ import 'dart:io';
 import 'package:file_picker/file_picker.dart';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
-import 'package:qiniu_flutter_sdk/qiniu_flutter_sdk.dart';
+import 'package:qiniu_flutter_sdk_plus/qiniu_flutter_sdk_plus.dart';
 
 import 'token.dart';
 import 'utils/uint.dart';
