@@ -1,3 +1,6 @@
+## 0.6.1
+* Upgrade sdk
+
 ## 0.6.0
 
 * Upgrade sdk

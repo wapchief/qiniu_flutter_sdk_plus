@@ -1,20 +1,21 @@
 name: qiniu_flutter_sdk_plus
-description: Qiniu Flutter sdk
-version: 0.6.0
-homepage: https://github.com/qiniu/dart-sdk/tree/master/flutter
+description: Qiniu Flutter sdk Plus,七牛云存储的Flutter SDK。基于七牛云API实现，封装了七牛云存储系统的客户端操作。
+version: 0.6.1
+homepage: https://github.com/wapchief/qiniu_flutter_sdk_plus
+repository: https://github.com/wapchief/qiniu_flutter_sdk_plus
 
 environment:
-  sdk: ">=3.3.0 <3.4.0"
+  sdk: "^3.3.0"
   flutter: ">=3.3.0"
 
 dependencies:
   flutter:
     sdk: flutter
-  dio: ^5.5.0
+  dio: ^5.5.0+1
   qiniu_sdk_base_plus: ^0.6.0
 
 dev_dependencies:
-  flutter_lints:
+  flutter_lints: ^4.0.0
   flutter_test:
     sdk: flutter
 
